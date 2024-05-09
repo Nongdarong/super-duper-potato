@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1903集团</title>
+     <title>Welcome to the 1903™ Group Website </title>
+</head>
+<body>
+    <header>
+        <h1>                             欢迎访问1903集团</h1>
+	<h2>	     Welcome to the 1903 Group Website</h2>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about 1903 Group">关于我们</a></li>
+            <li><a href="#services">我们的服务</a></li>
+            <li><a href="#contact">联系我们</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>关于我们</h2>
+        <p>1903集团是一家专业的公司，致力于提供高质量的课堂教学方案,曾荣获开发区上课睡觉人数最多的班级荣誉，学渣杯冠军班级。近期又荣获我也不知道叫什么杯倒数第一，学习成绩一直很稳定...</p>
+    </section>
+    <section id="services">
+        <h2>我们的服务</h2>
+        <ul>
+            <li>服务一</li>
+            <li>服务二</li>
+            <li>服务三</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>联系我们</h2>
+        <p>Add：广西壮族自治区南宁市武鸣区华侨投资区中心小学</p>
+        <p>电话：我也不知道🤣</p>
+	<p>CEO：莫学昭</p>
+
+    </section>
+    <footer>
+        <p>&copy; 2024 1903™. All Rights Reserved.</p>
+	 <p>&copy; 桂.公安备案号;123456789987654321.</p>
+    </footer>
+</body>
+</html>
